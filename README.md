@@ -34,7 +34,9 @@ Note: About the Attribute Analysis in our paper, we use the following function t
                 return Q
 
 
-Recently, we find that this function defines C1 = C2 = 0 to calculate SSIM metrics [while the original recommended C1=0.01 and C2 = 0.03](https://github.com/Shaosifan/HSENet/blob/main/codes/metric_scripts/calculate_PSNR_SSIM.py), and thus the reported variant of SSIM results is slightly different from the version for recommendation computation.
+Recently, we find that this function defines C1 = C2 = 0 to calculate SSIM metrics [while the original recommended C1=0.01 and C2 = 0.03](https://github.com/Shaosifan/HSENet/blob/main/codes/metric_scripts/calculate_PSNR_SSIM.py), and thus the reported variant of SSIM results is slightly different from the one recommended for calculation.
+
+However, this slight difference does not impact the effectiveness of the experimental analysis and comparison.
 
 Hope that the peers could understand and accommodate.
 
