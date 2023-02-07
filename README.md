@@ -43,4 +43,23 @@ Hope that the peers could understand and accommodate.
 
 If you have any questions about this paper, please send an e-mail to liuyanfeng99@gmail.com.
 
+
+If you compare our proposed method, please cite the paper as follows:
+
+<strong>
+@ARTICLE{9791375,   
+
+author={Wang, Qi and Liu, Yanfeng and Xiong, Zhitong and Yuan, Yuan},  
+
+journal={IEEE Transactions on Geoscience and Remote Sensing},   
+
+title={Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery},   
+
+year={2022},  volume={60},  number={},  pages={1-15},   
+
+doi={10.1109/TGRS.2022.3181062} 
+
+}
+</strong>
+
 ![image](https://user-images.githubusercontent.com/73867361/171971653-0bf8da14-1cd0-45e6-93c9-5980f910a5a1.png)
