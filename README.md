@@ -46,8 +46,9 @@ If you have any questions about this paper, please send an e-mail to liuyanfeng9
 
 If you compare our proposed method, please cite the paper as follows:
 
-<strong>
-@ARTICLE{9791375,   
+
+```bib
+@ARTICLE{HFANet2022,   
 
 author={Wang, Qi and Liu, Yanfeng and Xiong, Zhitong and Yuan, Yuan},  
 
@@ -60,6 +61,6 @@ year={2022},  volume={60},  number={},  pages={1-15},
 doi={10.1109/TGRS.2022.3181062} 
 
 }
-</strong>
+```
 
 ![image](https://user-images.githubusercontent.com/73867361/171971653-0bf8da14-1cd0-45e6-93c9-5980f910a5a1.png)
