@@ -1,7 +1,4 @@
 # HFANet
-<<<<<<< HEAD
-This is a repository about the paper "Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery", accepted by IEEE TGRS 2022.
-=======
 This repository is about the work "[**Hybrid Feature Aligned Network for Salient Object Detection in Optical Remote Sensing Imagery**](https://ieeexplore.ieee.org/abstract/document/9791375/)", in **IEEE TGRS 2022**.
 
 # Abstract
@@ -199,4 +196,3 @@ If you have any questions about this paper, please send an e-mail to liuyanfeng9
 5. <https://github.com/rmcong/DAFNet_TIP20>
 6. <https://github.com/rmcong/EORSSD-dataset>
 7. <https://github.com/rmcong/ORSSD-dataset>
->>>>>>> bbc09e8 (final commit)
